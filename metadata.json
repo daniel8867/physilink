@@ -1,0 +1,7 @@
+{
+  "name": "PhysiLink - Scientific Deconstruction Engine",
+  "description": "Deconstruct problems into physics concepts, equations, and visual diagrams.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
